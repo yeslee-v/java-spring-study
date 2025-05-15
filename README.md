@@ -1,5 +1,17 @@
-This is your new *vault*.
+---
+sticker: lucide//infinity
+---
+# Daily
+> 학습 기록용
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+- [[2025-05-15]]
 
-When you're ready, delete this note and make the vault your own.
+# Questions
+> F-lab 주차별 질문 정리용
+
+- [[1주차]]
+
+# TroubleShooting
+> 실습 중 문제 해결 과정 공유
+
+- [[Unsupported class file major version 68]]
