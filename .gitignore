@@ -1,0 +1,19 @@
+# Obsidian default
+.makemd/*
+.trash/*
+.obsidian/*
+!.obsidian/plugins.json
+*.mdb
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Cache
+*.sync-conflict-*
+*.icloud
+
+# 기타
+*.log
