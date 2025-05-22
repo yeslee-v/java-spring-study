@@ -55,5 +55,9 @@ public class JdbcTemplateMemberRepository implements MemberRepository {
 - 현재 `MemberRepository` 기반 구현체는 2개임
 	- `jdbcTemplateMemberRepository`
 	- `springDataJpaMemberRepository`
-- 
+- Spring은 두 개의 구현체 중 어느 것을 autowire해야할지 모름
+
+ 1. `JdbcTemplateMemberRepository` 의 어노테이션 제거 → 구현체는 `springDataJpaMemberRepository` 뿐이므로 자동 주입 가능
+2.  `@Qualifier` 어노테이션으로 명시적으로 지정 → 이름 매칭 관리가 어려움
+3. `@Primary` 어노테이션으로 기본으로 주입할 것 명시
 # 참고
