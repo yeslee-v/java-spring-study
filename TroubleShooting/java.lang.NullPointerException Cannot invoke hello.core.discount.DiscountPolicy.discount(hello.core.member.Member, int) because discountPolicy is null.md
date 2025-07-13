@@ -1,8 +1,7 @@
 ---
-aliases:
-  - int)" because "discountPolicy" is null
+aliases: 
 tags:
-  - trouble_shooting
+  - error
 ---
 # 문제
 ```java

@@ -1,7 +1,7 @@
 ---
 sticker: lucide//equal-not
 tags:
-  - jdk
+  - java/jdk
 ---
 # 문제
 - gradle로 프로젝트 셋팅하고 ./gradle build 하니까
