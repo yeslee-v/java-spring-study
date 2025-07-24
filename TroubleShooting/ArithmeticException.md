@@ -1,3 +1,8 @@
+---
+sticker: lucide//check-square
+tags:
+  - error
+---
 - 수학적 연산에서 주로 발생 → 부동소수점 연산은 제외!
 
 ## 종류

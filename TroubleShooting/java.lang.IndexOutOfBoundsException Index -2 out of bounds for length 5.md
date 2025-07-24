@@ -1,5 +1,7 @@
 ---
-aliases: []
+sticker: lucide//check-square
+tags:
+  - error
 ---
 - 뒤에서부터 접근하려고 마이너스 인덱스를 사용했는데 이건 적용이 안되나보다 → ***자바에서 음수 인덱스는 허용하지 않음!***
 

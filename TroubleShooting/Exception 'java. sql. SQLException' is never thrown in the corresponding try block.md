@@ -1,3 +1,8 @@
+---
+sticker: lucide//check-square
+tags:
+  - error
+---
 # 문제
 - 해당 코드에서 발생
 ```java

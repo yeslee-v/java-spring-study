@@ -1,3 +1,8 @@
+---
+sticker: lucide//check-square
+tags:
+  - error
+---
 # 문제
 패키지 추가하고 gradle 새로고침했는데도 계속 저 에러 메시지가 뜬다
 

@@ -1,3 +1,8 @@
+---
+sticker: lucide//check-square
+tags:
+  - error
+---
 # 문제
 - `SpringDataJpaMemberRepository` 생성 후, integration 테스트를 돌렸더니 fail이 떴다.
 ```java

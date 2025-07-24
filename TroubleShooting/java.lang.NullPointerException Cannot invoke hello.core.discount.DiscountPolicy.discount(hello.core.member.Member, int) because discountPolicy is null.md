@@ -1,7 +1,7 @@
 ---
-aliases: 
 tags:
   - error
+sticker: lucide//check-square
 ---
 # 문제
 ```java
